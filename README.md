@@ -156,7 +156,3 @@ src/
 ├── app.module.ts  # Módulo principal
 └── main.ts        # Punto de entrada
 ```
-
-## Licencia
-
-UNLICENSED

@@ -30,19 +30,7 @@ npm install
 
 Crear un archivo `.env` en la raíz del proyecto:
 
-```env
-DATABASE_HOST=localhost
-DATABASE_PORT=5432
-DATABASE_USER=postgres
-DATABASE_PASSWORD=root
-DATABASE_NAME=ticketflow_ng
 
-JWT_SECRET=super-secret-key-ticketflow-ng-2024
-JWT_EXPIRES_IN=1d
-
-UPLOAD_DIR=./uploads/tickets
-
-PORT=3000
 ```
 
 ## Ejecución
